@@ -1,0 +1,9 @@
+data/*.csv
+data/*.json
+models/*.txt
+models/*.joblib
+models/*.json
+reports/*.json
+__pycache__/
+*.pyc
+.DS_Store
